@@ -1,6 +1,6 @@
 ### ML_Algorithms
 
-- [ ] Linear Regression
+- [X] Linear Regression
 - [ ] Perceptron
 - [ ] Support Vector Machine
 - [ ] Naive Bayes 
